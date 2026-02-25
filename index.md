@@ -123,8 +123,3 @@ We may update this policy from time to time. The "Last updated" date at the top 
 
 ---
 
-**Implementation note for developers/administrators:**
-
-1. Review and customize this file, then host the final version on a publicly reachable URL (for example on your hospital's website or GitHub Pages).
-2. Update the `privacy_policy_url` string in `app/src/main/res/values/strings.xml` to point to that URL.
-3. Use that same URL in the Google Play Console for the app listing and Data Safety form.
