@@ -117,6 +117,8 @@ For questions about this app or how your data is handled, patients should contac
 
 If you are a hospital or clinic administrator deploying this app, please ensure that your staff and patients know how to reach your official contact point for medical records and privacy matters (for example, by publishing it on your own website, admission forms, or notice boards).
 
+for any problems encountered contact me at waiminkyaw@gmail.com, waiminkyaw239@gmail.com
+
 ## 12. Changes to this policy
 
 We may update this policy from time to time. The "Last updated" date at the top will indicate the latest revision. Significant changes may also be communicated through internal channels.
