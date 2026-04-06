@@ -1,12 +1,13 @@
 # Hospital Database App – Privacy Policy (Draft)
 
-**Last updated:** February 25, 2026
+**Last updated:** April 6, 2026
 
-> NOTE: This is a draft generated template. You must review it with your own legal advisor and adapt it to your actual hospital policies, local laws (e.g., GDPR, HIPAA, or local health data rules), and infrastructure before publishing.
 
 ## 1. Who we are
 
-This application ("Hospital Database") is developed and operated by the hospital or clinic that deploys it ("we", "our"). It is intended for use by authorized healthcare staff only and is not a consumer health app.
+This application ("Hospital Database") is deployed and operated by the hospital or clinic that uses it ("we", "our"). It is intended for use by authorized healthcare staff only and is not a consumer health app.
+
+This app is an independently developed hospital information system. **It is not an official app of the Ministry of Health (MOH), the Department of Public Health (DPH), or any other government agency.** Public and private hospitals may choose to use this app as part of their internal record‑keeping.
 
 If you are a patient, please contact your hospital directly for questions about how your data is handled.
 
@@ -16,11 +17,28 @@ Hospital Database is an internal tool for authorized staff to:
 
 - Register outpatient (OPD) and inpatient (IPD) visits.
 - Record history, examination, investigations, imaging, treatments, operations, and discharge summaries.
-- Manage birth records and related notes.
+- Manage admission, discharge, follow‑up information, and birth records.
 - Track vital signs and other clinical parameters.
 - Coordinate investigations and OT calls using notifications.
+- Generate internal hospital reports and statistics.
 
 It is **not** intended for direct patient use or self‑diagnosis.
+
+## 2A. Government forms and sources (MOH Myanmar)
+
+Some screens and printable reports in this app follow the layouts of Ministry of Health (MOH) Myanmar forms such as **Form I**, **Form IA**, **Form III**, and the **MR‑1 admission and discharge form**. This is done only to help hospitals record and print data in the same format as the official paper forms.
+
+The original documentation for these forms is published by MOH/DPH. For example:
+
+- **Hospital Form Manual 2013** (describing Forms I and III):  
+  https://www.moh.gov.mm/wp-content/uploads/2025/10/Hospital-Form-Manual-2013.pdf
+
+- **Data Dictionary 2025** (including definitions used for Form IA and related indicators):  
+  https://dph.moh.gov.mm/?publication=data-dictionary-2025
+
+A public download URL for the **MR‑1 paper form** is not available. The MR‑1 layout in this app is based on the standard printed admission and discharge form used in Myanmar government hospitals.
+
+The app itself remains an **independent tool** and does **not** represent, replace, or claim to be any official MOH or government system.
 
 ## 3. Data we collect and process
 
@@ -28,7 +46,7 @@ The app is designed to store and process personal and health information about p
 
 - Identifiers: patient ID, hospital ID, OPD/Admission numbers, dates of birth, sex.
 - Contact and demographic information: names, addresses, age, gender.
-- Clinical data: history, examination findings, diagnoses, investigations, imaging results, treatments, operations, discharge summaries, birth records, and follow‑up notes.
+- Clinical data: history, examination findings, diagnoses, investigations, imaging results, treatments, operations, discharge summaries, birth records, follow‑up notes, and similar information.
 - Vital signs and other observations recorded during care.
 - Technical logs and metadata: timestamps of actions, basic device information, and limited analytics as configured by the hospital.
 
@@ -52,8 +70,9 @@ Data entered into the app is used for purposes such as:
 
 - Providing and documenting clinical care to patients.
 - Managing hospital workload, bed occupancy, and OT scheduling.
-- Generating internal reports and summaries.
-- Sending internal notifications to staff about investigations, imaging, and OT calls.
+- Generating internal reports and summaries (including MOH‑style forms such as Form I, IA and III).
+- Sending internal notifications to staff about investigations, imaging, OT calls and follow‑ups.
+- Supporting internal quality improvement, audit and patient‑safety activities.
 
 We do **not** use patient data for advertising or unrelated marketing.
 
@@ -61,8 +80,9 @@ We do **not** use patient data for advertising or unrelated marketing.
 
 Patient data recorded in this app is generally only shared with:
 
-- Authorized hospital staff and departments involved in direct patient care.
+- Authorized hospital staff and departments involved in direct patient care, supervision or administration.
 - External providers only to the extent required by law or as part of the hospital's official referral/consult process.
+- Government authorities or regulators only when required by applicable law (for example, mandatory reporting of specific diseases or statistics).
 
 We do not sell patient data.
 
@@ -117,11 +137,10 @@ For questions about this app or how your data is handled, patients should contac
 
 If you are a hospital or clinic administrator deploying this app, please ensure that your staff and patients know how to reach your official contact point for medical records and privacy matters (for example, by publishing it on your own website, admission forms, or notice boards).
 
-for any problems encountered contact me at waiminkyaw@gmail.com, waiminkyaw239@gmail.com
+for any problems encountered - advised me at waiminkyaw@gmail.com, waiminkyaw239@gmail.com
 
 ## 12. Changes to this policy
 
 We may update this policy from time to time. The "Last updated" date at the top will indicate the latest revision. Significant changes may also be communicated through internal channels.
 
 ---
-
