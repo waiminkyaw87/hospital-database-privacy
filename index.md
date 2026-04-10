@@ -1,4 +1,4 @@
-# Hospital Database App – Privacy Policy (Draft)
+# Hospital Database App – Privacy Policy
 
 **Last updated:** April 6, 2026
 
