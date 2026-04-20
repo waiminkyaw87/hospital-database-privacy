@@ -22,19 +22,18 @@ Hospital Database is an internal tool for authorized staff to:
 - Coordinate investigations and OT calls using notifications.
 - Generate internal hospital reports and statistics.
 
+
 It is **not** intended for direct patient use or self‑diagnosis.
 
-## 2A. Government forms and sources (MOH Myanmar)
+Some screens and printable reports in this app follow institutional reporting layouts to help hospitals record and print data consistently.
 
-Some screens and printable reports in this app follow the layouts of Ministry of Health (MOH) Myanmar forms such as **Form I**, **Form IA**, **Form III**, and the **MR‑1 admission and discharge form**. This is done only to help hospitals record and print data in the same format as the official paper forms.
-
-The original documentation for these forms is published by MOH/DPH and implemented online in the national HMIS systems. To avoid broken or outdated direct links inside the app, we maintain a separate public **Sources &amp; References** page that lists the current MOH/DPH documents and HMIS entry sites used as references for these layouts.
+To avoid broken or outdated direct links inside the app, we maintain a separate public **Sources &amp; References** page that lists the current reference links used by the app.
 
 You can find those source links here:
 
 > https://waiminkyaw87.github.io/hospital-database-sources/
 
-That page may include, for example, references to the Hospital Form Manual 2013 (Forms I and III), the Data Dictionary 2025 (Form IA and indicator definitions), and the official HMIS data entry servers used by MOH Myanmar for Forms I and III. Those documents and servers are owned and operated by MOH/DPH and are completely separate from this app.
+That page currently includes public references such as the World Health Organization (WHO) website and a WHO supporting guidance document. Those references are owned and operated by their respective organizations and are completely separate from this app.
 
 The Hospital Database app does **not** connect directly to those HMIS servers and does **not** represent, replace, or claim to be any official MOH or government electronic system. A public download URL for the **MR‑1 paper form** is not available; the MR‑1 layout in this app is based on the standard printed admission and discharge form used in Myanmar government hospitals.
 
