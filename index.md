@@ -1,13 +1,27 @@
 # Hospital Database App – Privacy Policy
 
-**Last updated:** April 6, 2026
+**Last updated:** April 20, 2026
 
+## Public compliance statement
+
+Hospital Database is an independent digital hospital information system for hospitals and clinics. It helps authorized healthcare staff manage internal OPD/IPD records, investigations, operations, and institutional reporting workflows.
+
+**NOT A GOVERNMENT APP**
+
+Hospital Database is not developed by, affiliated with, endorsed by, or authorized by any government entity.
+
+This app is a private institutional data-management tool and does not provide official government services.
+
+Reference source:
+
+- World Health Organization (WHO): <https://www.who.int/>
+- WHO reference document: <https://cdn.who.int/media/docs/default-source/world-health-data-platform/rhis-modules/district-guidance_2021_01_20_final.pdf?sfvrsn=b425b7f3_10>
 
 ## 1. Who we are
 
 This application ("Hospital Database") is deployed and operated by the hospital or clinic that uses it ("we", "our"). It is intended for use by authorized healthcare staff only and is not a consumer health app.
 
-This app is an independently developed hospital information system. **It is not an official app of the Ministry of Health (MOH), the Department of Public Health (DPH), or any other government agency.** Public and private hospitals may choose to use this app as part of their internal record‑keeping.
+This app is an independently developed hospital information system. **It is not an official app of any government agency.** Public and private hospitals may choose to use this app as part of their internal record-keeping.
 
 If you are a patient, please contact your hospital directly for questions about how your data is handled.
 
@@ -22,7 +36,6 @@ Hospital Database is an internal tool for authorized staff to:
 - Coordinate investigations and OT calls using notifications.
 - Generate internal hospital reports and statistics.
 
-
 It is **not** intended for direct patient use or self‑diagnosis.
 
 Some screens and printable reports in this app follow institutional reporting layouts to help hospitals record and print data consistently.
@@ -35,7 +48,7 @@ You can find those source links here:
 
 That page currently includes public references such as the World Health Organization (WHO) website and a WHO supporting guidance document. Those references are owned and operated by their respective organizations and are completely separate from this app.
 
-The Hospital Database app does **not** connect directly to those HMIS servers and does **not** represent, replace, or claim to be any official MOH or government electronic system. A public download URL for the **MR‑1 paper form** is not available; the MR‑1 layout in this app is based on the standard printed admission and discharge form used in Myanmar government hospitals.
+The Hospital Database app does **not** connect directly to external government systems and does **not** represent, replace, or claim to be an official government electronic system. Any template-like layouts in this app are intended only for internal hospital documentation workflows.
 
 ## 3. Data we collect and process
 
@@ -67,7 +80,7 @@ Data entered into the app is used for purposes such as:
 
 - Providing and documenting clinical care to patients.
 - Managing hospital workload, bed occupancy, and OT scheduling.
-- Generating internal reports and summaries (including MOH‑style forms such as Form I, IA and III).
+- Generating internal reports and summaries for institutional use.
 - Sending internal notifications to staff about investigations, imaging, OT calls and follow‑ups.
 - Supporting internal quality improvement, audit and patient‑safety activities.
 
@@ -134,7 +147,7 @@ For questions about this app or how your data is handled, patients should contac
 
 If you are a hospital or clinic administrator deploying this app, please ensure that your staff and patients know how to reach your official contact point for medical records and privacy matters (for example, by publishing it on your own website, admission forms, or notice boards).
 
-for any problems encountered - advised me at waiminkyaw@gmail.com, waiminkyaw239@gmail.com
+contact details for the app developer (for example, for technical support or feedback) can be found on the app's official website or app store listing.
 
 ## 12. Changes to this policy
 
